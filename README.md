@@ -5,6 +5,7 @@
 - Alejandro Zarate Santoveña
 - German Barquero Garcia
 - Vernon Stanley Albayeros Duarte
+- Lali Bibilashvili
 
 ## Link to Slides for each week
 - [Week1](https://docs.google.com/presentation/d/1DauJmqlNZuJSZRZlrUFczFR7OGHOypd4QTpV5uv5UzU/edit#slide=id.g35f391192_00)
